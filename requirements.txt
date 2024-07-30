@@ -1,0 +1,3 @@
+fastapi
+fastapi-azure-auth
+pydantic-settings
